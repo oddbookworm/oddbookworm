@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/fe482a33-8c18-456e-98b8-a3927ad70f1b.svg)](https://wakatime.com/@fe482a33-8c18-456e-98b8-a3927ad70f1b)
+
+Contributor to:
+[Pygame Guide For Sneks](https://github.com/pygame-guide-for-sneks/pygame-guide-for-sneks.github.io)
+[pygame](https://github.com/pygame/pygame)
+[Pygame Examples](https://github.com/pygame-examples/pygame_examples)
+
 <!--
 **oddbookworm/oddbookworm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
