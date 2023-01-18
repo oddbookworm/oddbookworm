@@ -2,7 +2,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/fe482a33-8c18-456e-98b8-a3927ad70f1b.svg)](https://wakatime.com/@fe482a33-8c18-456e-98b8-a3927ad70f1b)
 
-[![Top Langs]((https://github-readme-stats-pne0bcefq-oddbookworm.vercel.app/api/top-langs/?username=oddbookworm)](https://github.com/oddbookworm/github-readme-stats)
+[![Top Langs](https://github-readme-stats-pne0bcefq-oddbookworm.vercel.app/api/top-langs/?username=oddbookworm](https://github.com/oddbookworm/github-readme-stats)
 ---
 ### Contributor to:
 [Pygame Guide For Sneks](https://github.com/pygame-guide-for-sneks/pygame-guide-for-sneks.github.io)
