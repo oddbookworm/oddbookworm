@@ -12,6 +12,7 @@
 
 [Pygame Examples](https://github.com/pygame-examples/pygame_examples)
 
+<hr><br>
 Due to unfortunate circumstances, my commits to pygame no longer link to my account,
 so I am providing links to each of my merged pull requests into pygame.
 
@@ -26,7 +27,8 @@ so I am providing links to each of my merged pull requests into pygame.
 [Fixing a typo in the docs for `pygame.image.tobytes`](https://github.com/pygame/pygame/pull/3657)
 
 [Fixing several segfaults in `pygame.PixelArray`](https://github.com/pygame/pygame/pull/3666)
-<br>
+
+<hr><br>
 Pull requests that I closed before merging due to the same unfortunate circumstances
 
 [New `pygame.debug` method for easier bug reports](https://github.com/pygame/pygame/pull/3374)
