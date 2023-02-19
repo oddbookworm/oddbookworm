@@ -8,7 +8,9 @@
 ### Contributor to:
 [Pygame Guide For Sneks](https://github.com/pygame-guide-for-sneks/pygame-guide-for-sneks.github.io)
 
-[pygame](https://github.com/pygame/pygame)
+[pygame](https://github.com/pygame/pygame) (formerly)
+
+[pygame - Community Edition](https://github.com/pygame-community/pygame-ce)
 
 [Pygame Examples](https://github.com/pygame-examples/pygame_examples)
 
